@@ -50,27 +50,27 @@ State of the Practice
 ## Long description 
 (500-word maximum) clearly stating goal(s), topic, relevance to the expected HPC audience, and the expected outcome; and
 
-Python is the world's most popular programming language. Python on HPC systems has it's own special challenges. These challenges often prevent new comers to HPC from fully realizing the potential of supercomputers. Our goal is to create a dialogue between the Python language community and the HPC community. 
+Python is the world's most popular programming language. Python on HPC systems has it's own special challenges. These challenges often prevent new comers to HPC from fully realizing the potential of supercomputers. Unfortunately this global community is fractured between language implementers, library writers, and hpc practitioners.
 
-Problems with the dialog:
-- Standards in Python can take up to a decade to be accepted and implemented
-- No single process for getting accepted, so folks have to work with the Python language community to understand the evolving process
-- HPC teams don't have time feed the relationships in both the HPC and Python langauge communities
+Our goal is to create a dialogue between the global Scientific library community, the language community and the HPC community. 
 
-On one side these problems include:
+On HPC system Python runtime problems include:
 - Pythons module system on share filesystems cause large latencies in loading programs,
 - Python's default packaging doesn't work well with specialized libraries on HPC systems, e.g. optimized MPIs,
 - Distribution system in Python are often incompatible with each other
 
-There are many standards or PEPs (Python enhancement proposals) in flight that will affect the HPC community, but largely there is zero overlap with the Python Steering Committee 
-
-These standards include:
+On language front there are many standards or PEPs (Python enhancement proposals) in flight that will affect the HPC community, but largely there is zero overlap with the Python Steering Committee  These standards include:
 - Packaging standards are evolving to accommodate system libraries,
 - just-in-time compilation systems are being developed at the bytecode level of the language,
 - asynchronous threading primatives are being added to the language.
 
-These recent changes in the language should have representation from the Supercomputing community, we are organizing leaders in the Core Python teams to take feedback from HPC practicitioners at this BOF.
+These recent changes in the language should have representation from the Supercomputing community, problems with the dialog:
+- Standards in Python can take up to a decade to be accepted and implemented
+- No single process for getting accepted, so folks have to work with the Python language community to understand the evolving process
+- HPC teams don't have time feed the relationships in both the HPC and Python langauge communities
 
+
+we are organizing leaders in the Core Python teams to take feedback from HPC practicitioners at this BOF. 
 Goals for the BoF:
 - Attendee will get an understanding of the the newest standards in the Python language, why they may or may not want to use them, and conections to other Python users in the field who they can network with to find common ground for finding solutions.
 - Python language members can help our community be represented in updating standards (PEPs) for HPC problems
