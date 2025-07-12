@@ -37,14 +37,16 @@
 
 ## Selection of a topic area that best fits your BoF (see below);
 
-Standards
-Practitioners in HPC
-Community Meetings
-Democratization of HPC
+Standards  
+Practitioners in HPC  
+Community Meetings  
+Democratization of HPC  
 State of the Practice
 
 ## Abstract 
 (100-word maximum)
+
+Python is the most widely used programming language today—but on HPC systems, it’s often more pain than power. From slow module loading on shared filesystems to packaging headaches and incompatible distributions, these hurdles block new users and frustrate seasoned developers alike. Meanwhile, major changes to Python’s core—new array APIs, packaging reforms, JIT compilation, and async primitives—are happening without HPC at the table. This BoF brings together language leaders and HPC practitioners to change that. Join us to shape Python’s future, learn what’s coming, connect with peers, and help launch a new HPC working group to influence Python from the inside out.
 
 
 ## Long description 
