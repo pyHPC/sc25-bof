@@ -2,20 +2,20 @@
 
 ## Session leader information
 
-Name: Bryce Adelstein Lelbach
+Name: Andy Terrel
 Email: aterrel@nvidia.com
 Company/Institution: NVIDIA
 Country: US
-Biography (up to 150 words):
+Biography (up to 150 words): Andy Terrel leads NVIDIA CUDA Python from the product management team. His research focused on domain-specific languages to generate high-performance code for physics simulations with the PETSc and FEniCS projects. Andy is a leader in the Python open-source software community. He's most notably a co-creator of the Dask distributed computing framework, the Conda package manager, the SymPy symbolic computing library, and NumFOCUS foundation.
 
 
 ## Selection of a topic area that best fits your BoF (see below);
 
 Standards
-Community Meetings
 Practitioners in HPC
-State of the Practice
+Community Meetings
 Democratization of HPC
+State of the Practice
 
 ## Abstract 
 (100-word maximum)
