@@ -9,30 +9,30 @@
 **Biography** (up to 150 words): Andy Terrel leads NVIDIA CUDA Python from the product management team. His research focused on domain-specific languages to generate high-performance code for physics simulations with the PETSc and FEniCS projects. Andy is a leader in the Python open-source software community. He's most notably a co-creator of the Dask distributed computing framework, the Conda package manager, the SymPy symbolic computing library, and NumFOCUS foundation.
 
 
-**Name**: Barry Warsaw
+**Name**: Barry Warsaw  
 **Email**: bwarsaw@nvidia.com  
 **Company/Institution**: Python Software Foundation / NVIDIA  
 **Country**: US  
 **Biography** (up to 150 words): 
 
 
-**Name**: Michael Droettboom
-**Email**: mdboom@gmail.com  
+**Name**: Michael Droettboom  
+**Email**: mdboom@gmail.com   
 **Company/Institution**: Microsoft  
 **Country**: US  
 **Biography** (up to 150 words): 
 
-**Name**: Carol Willing
-**Email**: willingc@gmail.com
-**Company/Institution**: Python Software Foundation
-**Country**: US  
+**Name**: Carol Willing  
+**Email**: willingc@gmail.com  
+**Company/Institution**: Python Software Foundation  
+**Country**: US   
 **Biography** (up to 150 words): 
 
-**Name**: Bryce Lelbach
-**Email**: blelbach@nvidia.com
-**Company/Institution**: NVIDIA
+**Name**: Bryce Lelbach  
+**Email**: blelbach@nvidia.com  
+**Company/Institution**: NVIDIA  
 **Country**: US  
-**Biography** (up to 150 words): 
+**Biography** (up to 150 words):  
 
 
 ## Selection of a topic area that best fits your BoF (see below);
