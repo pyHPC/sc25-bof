@@ -87,12 +87,6 @@ The second part will be a facilitated discussion giving the audience the opportu
 
 Remote participants will be able to join via notes on HackMD, Slido and the pyHPC Discord server.
 
-problems with the dialog:
-- Standards in Python can take up to a decade to be accepted and implemented
-- No single process for getting accepted, so folks have to work with the Python language community to understand the evolving process
-- HPC teams don't have time feed the relationships in both the HPC and Python langauge communities
-
-
 
 ## Plan
 
