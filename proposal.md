@@ -4,14 +4,14 @@
 
 **Name**: Andy Terrel  
 **Email**: andy@numfocus.org  
-**Company/Institution**: NumFOCUS 
+**Company/Institution**: NumFOCUS  
 **Country**: US  
 **Biography** (up to 150 words): Andy Terrel leads NVIDIA CUDA Python from the product management team. His research focused on domain-specific languages to generate high-performance code for physics simulations with the PETSc and FEniCS projects. Andy is a leader in the Python open-source software community. He's most notably a co-creator of the Dask distributed computing framework, the Conda package manager, the SymPy symbolic computing library, and NumFOCUS foundation.
 
 
 **Name**: Barry Warsaw  
-**Email**: bwarsaw@nvidia.com  
-**Company/Institution**: Python Software Foundation / NVIDIA  
+**Email**: barry@python.org
+**Company/Institution**: Python Software Foundation 
 **Country**: US  
 **Biography** (up to 150 words): 
 
