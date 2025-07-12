@@ -1,4 +1,4 @@
-# PyHPC BoF
+# The Future of Python on HPC Systems
 
 ## Session leader information
 
@@ -26,13 +26,17 @@ There are many standards or PEPs (Python enhancement proposals) in flight that w
 These standards include:
 - Packaging standards are evolving to accommodate system libraries,
 - just-in-time compilation systems are being developed at the bytecode level of the language,
--  asynchronous threading primatives are being added to the language.
+- asynchronous threading primatives are being added to the language.
 
 These recent changes in the language should have representation from the Supercomputing community, we are organizing leaders in the Core Python teams to take feedback from HPC practicitioners at this BOF.
 
 
 ## Session format information, 
 including a description (150-word maximum) of how you plan to organize the BoF session.
+
+Will have a speaker with one slide setting up each new standard. Speakers identified include Barry Warsaw, Micheal Droetboom, and Carol Willing
+
+Remote participants will be able to join via notes on HackMD. 
 
 ## Plan
 
