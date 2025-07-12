@@ -13,27 +13,33 @@
 **Email**: barry@python.org  
 **Company/Institution**: Python Software Foundation  
 **Country**: US  
-**Biography** (up to 150 words): 
+**Biography** (up to 150 words): Core CPython Developer 
 
 
 **Name**: Michael Droettboom  
 **Email**: mdboom@gmail.com   
 **Company/Institution**: Microsoft  
 **Country**: US  
-**Biography** (up to 150 words): 
+**Biography** (up to 150 words): Core CPython Developer 
 
 **Name**: Carol Willing  
 **Email**: willingc@gmail.com  
 **Company/Institution**: Python Software Foundation  
 **Country**: US   
-**Biography** (up to 150 words): 
+**Biography** (up to 150 words): Core CPython Developer 
 
 **Name**: Bryce Lelbach  
 **Email**: blelbach@nvidia.com  
 **Company/Institution**: NVIDIA  
 **Country**: US  
-**Biography** (up to 150 words):  
+**Biography** (up to 150 words):  NVIDIA Programming Language Architect
 
+
+**Name**: Davin Potts  
+**Email**: 
+**Company/Institution**: HPE / Cray
+**Country**: US  
+**Biography** (up to 150 words): Core CPython Developer 
 
 ## Selection of a topic area that best fits your BoF (see below);
 
