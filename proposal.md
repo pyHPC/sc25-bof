@@ -60,15 +60,12 @@ On HPC system Python runtime problems include:
 - Distribution system in Python are often incompatible with each other
 
 On language front there are many standards or PEPs (Python enhancement proposals) in flight that will affect the HPC community, but largely there is zero overlap with the Python Steering Committee  These standards include:
+- Array Apis and data interfaces that allow for sharing between libraries,
 - Packaging standards are evolving to accommodate system libraries,
 - just-in-time compilation systems are being developed at the bytecode level of the language,
 - asynchronous threading primatives are being added to the language.
 
-These recent changes in the language should have representation from the Supercomputing community, problems with the dialog:
-- Standards in Python can take up to a decade to be accepted and implemented
-- No single process for getting accepted, so folks have to work with the Python language community to understand the evolving process
-- HPC teams don't have time feed the relationships in both the HPC and Python langauge communities
-
+These recent changes in the language should have representation from the Supercomputing community, 
 
 we are organizing leaders in the Core Python teams to take feedback from HPC practicitioners at this BOF. 
 Goals for the BoF:
@@ -86,6 +83,13 @@ The first part of the BOF Session will be 10 minutes setting up context for atte
 The second part will be a facilitated discussion giving the audience the opportunity to discuss how these standards impact their workflow.
 
 Remote participants will be able to join via notes on HackMD, Slido and the pyHPC Discord server.
+
+problems with the dialog:
+- Standards in Python can take up to a decade to be accepted and implemented
+- No single process for getting accepted, so folks have to work with the Python language community to understand the evolving process
+- HPC teams don't have time feed the relationships in both the HPC and Python langauge communities
+
+
 
 ## Plan
 
