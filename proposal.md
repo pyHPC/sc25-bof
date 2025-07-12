@@ -10,8 +10,8 @@
 
 
 **Name**: Barry Warsaw  
-**Email**: barry@python.org
-**Company/Institution**: Python Software Foundation 
+**Email**: barry@python.org  
+**Company/Institution**: Python Software Foundation  
 **Country**: US  
 **Biography** (up to 150 words): 
 
@@ -46,7 +46,7 @@ State of the Practice
 ## Abstract 
 (100-word maximum)
 
-Python is the most widely used programming language today—but on HPC systems, it’s often more pain than power. From slow module loading on shared filesystems to packaging headaches and incompatible distributions, these hurdles block new users and frustrate seasoned developers alike. Meanwhile, major changes to Python’s core—new array APIs, packaging reforms, JIT compilation, and async primitives—are happening without HPC at the table. This BoF brings together language leaders and HPC practitioners to change that. Join us to shape Python’s future, learn what’s coming, connect with peers, and help launch a new HPC working group to influence Python from the inside out.
+Python is the most widely used programming language today—but on HPC systems, it’s often more pain than power. From slow module loading on shared filesystems to packaging headaches and incompatible distributions, these hurdles block new users and frustrate seasoned developers alike. Meanwhile, major changes to Python’s core — new Array APIs, packaging reforms, JIT compilation, and threading primitives —- are happening without HPC at the table. This BoF brings together language leaders and HPC practitioners to change that. Join us to shape Python’s future, learn what’s coming, connect with peers, and help launch a new HPC working group to influence Python from the inside out.
 
 
 ## Long description 
