@@ -57,9 +57,10 @@ Python is the world's most popular programming language. Python on HPC systems h
 Our goal is to create a dialogue between the global Scientific library community, the language community and the HPC community. 
 
 On HPC system Python runtime problems include:
-- Pythons module system on share filesystems cause large latencies in loading programs,
+- Pythons module system on shared filesystems cause large latencies in loading programs,
 - Python's default packaging doesn't work well with specialized libraries on HPC systems, e.g. optimized MPIs,
-- Distribution system in Python are often incompatible with each other
+- Parallel systems in Python are often incompatible with each other
+- HPC Python users often claim their needs are not being heard, but are not organized at other conferences
 
 On language front there are many standards or PEPs (Python enhancement proposals) in flight that will affect the HPC community, but largely there is zero overlap with the Python Steering Committee  These standards include:
 - Array Apis and data interfaces that allow for sharing between libraries,
