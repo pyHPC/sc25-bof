@@ -36,8 +36,8 @@
 
 
 **Name**: Davin Potts  
-**Email**: 
-**Company/Institution**: HPE / Cray
+**Email**: davin@appliomics.com  
+**Company/Institution**: HPE / Cray  
 **Country**: US  
 **Biography** (up to 150 words): Davin Potts is a Core CPython Developer best known for his work maintaining and improving Python’s multiprocessing module. He led the development of the shared_memory feature introduced in Python 3.8, which allows processes to efficiently share data without copying. Davin has focused on making parallel computing in Python more robust and accessible for real-world use. He also brings deep expertise from his role as on the Dragon HPC system at HPE/Cray, where he works on next-generation supercomputing platforms. His combined experience in Python and HPC makes him a key contributor to advancing Python’s performance in high-end computing environments.
 
